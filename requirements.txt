@@ -1,0 +1,10 @@
+flask
+spacy
+langid
+requests
+gensim==4.3.2
+openai
+pandas
+numpy
+sentence-transformers
+scipy==1.14.0
